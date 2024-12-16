@@ -156,6 +156,7 @@ nav li {
     backdrop-filter: blur(20px);
     padding: 10px 0;
     padding-left: 35px;
+    z-index: 100;
   }
 
   nav ul.show {
